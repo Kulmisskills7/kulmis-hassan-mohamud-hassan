@@ -1,6 +1,5 @@
 
 <html>
-    <title> Natiijo</title>
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
