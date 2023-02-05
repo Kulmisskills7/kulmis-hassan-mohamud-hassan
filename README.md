@@ -1,5 +1,7 @@
 
+
 <html>
+    <title> Natiijo</title>
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
@@ -12,7 +14,7 @@
                     <th>Darajo</th>
                     <th>Fasalka</th>
                 </tr>
-                
+                <tr>
                     <td> First Aid</td>
                    
                     <td> 82
@@ -29,7 +31,7 @@
                     <td> CAAFIMAAD
                     </td>
                 </tr>
-               
+                <tr>
                     <td> ANATOMY </td>
                     <td>Lama Hayo  
                         <td> Z
@@ -38,14 +40,14 @@
                     </td>
                 </tr>
                
-                    
+                    <tr>
                         <td>PHYSIOLOGY </td>
                         <td>Lama hayo</td>
                         <td> Z
                         <td> CAAFIMAAD
                         </td>
                     </tr>
-                   
+                    <tr>
                         <td> PHARMACOLOGY</td>
                         <td>Lama Hayo</td>
                         <td> Z
@@ -53,10 +55,10 @@
                         </td>
                     </tr>
                     
-                        
+                    <tr>
                             <td> NUTRITION</td>
                             <td>Lama Hayo</td>
                             <td> Z
                             <td> CAAFIMAAD
                             </td>
-                       
+                        </tr>
